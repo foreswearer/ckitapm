@@ -65,3 +65,9 @@ doc/generated/
 
 # PyBuilder
 target/
+/.idea/ckitapm.iml
+/.idea/workspace.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
